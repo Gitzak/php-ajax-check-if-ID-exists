@@ -1,6 +1,6 @@
 <?php
 
-require_once 'config/conx.php';
+// require_once 'config/conx.php';
 
 ?>
 <!DOCTYPE html>
